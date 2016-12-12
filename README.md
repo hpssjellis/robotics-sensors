@@ -8,5 +8,5 @@ Web pages for this directory are at https://hpssjellis.github.io/robotics-sensor
 
 
 
-The readme.md is at  https://hpssjellis.github.io/robotics-sensors/readme.md
+The readme.md is at  https://hpssjellis.github.io/robotics-sensors/README.md
 
