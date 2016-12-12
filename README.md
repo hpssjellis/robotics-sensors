@@ -4,4 +4,4 @@ A help list for the sensors and actuators used in my Robotics class with the Par
 https://particle.io
 
 
-Web pages for this directory are at https://hpssjellis.github.io/robotics-sensors/
+Web pages for this directory are at https://hpssjellis.github.io/robotics-sensors/index.html
