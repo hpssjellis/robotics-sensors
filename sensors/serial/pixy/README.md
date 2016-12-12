@@ -47,3 +47,10 @@ Watch D7 as the color comes into view. (D7 should flash quicker on one side of i
 
 
 
+QR code here
+![](qr01.png)
+
+
+
+
+
