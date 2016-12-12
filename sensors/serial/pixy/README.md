@@ -47,8 +47,12 @@ Watch D7 as the color comes into view. (D7 should flash quicker on one side of i
 
 
 
-QR code here
+QR code to this site here
 ![](qr01.png)
+
+
+Pixy storage label
+![](pixy-label.png)
 
 
 
