@@ -14,4 +14,5 @@ Connecting a Pixy Camera to a Particle.io Photon
 ![](pixy-io-connector-pinout.jpg)
 
 
+![](pixy-serial-spark-core.png)
 
