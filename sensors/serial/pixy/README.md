@@ -28,14 +28,16 @@ Power up
 Point pixy at a color object
 
 Hold button on top of Pixy until red color (or other color to train)
-On red release button
+On red release button (Pixy now in training mode)
 
-Pixy trained for that color
+When pixy senses the object color, push button again
+
+Pixy now trained for that color. (Pixy light will match the trained color)
 
 Flash the example.ino to the photon
 
 
-Watch D7 as the color comes into view. (D7 should flash quicker)
+Watch D7 as the color comes into view. (D7 should flash quicker on one side of it's field of view)
 
 
 
